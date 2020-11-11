@@ -2,3 +2,5 @@ Rencana Krisna
 - Lulus Kuliah
 - Kerja
 - Pelatihan Programming
+  * WEB Development
+  * Python
